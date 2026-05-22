@@ -1,0 +1,5 @@
+loadstring(game:HttpGet'https://api.rubis.app/v2/scrap/FqyNIu1LRcmEhXie/raw')()
+ 
+task.wait(3)
+
+loadstring(game:HttpGet("https://eternal-darkness.org/loaders/afdf14806f23cc1a71c9ab690502af33.lua"))()
