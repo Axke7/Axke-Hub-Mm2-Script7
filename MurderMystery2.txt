@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://eternal-darkness.org/loaders/87f59e028101b41d8cd4774419a6fa66.lua"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/qrpkVUKQ9z/0", true))()
